@@ -1,7 +1,7 @@
 Pitchdeck-Boilerplate
 =====================
 
-Based on the great HTML pitchdeck by dressrush, (https://github.com/mhurwi/Pitchdeck-Boilerplate)
+Based on the great HTML pitchdeck by dressrush, (http://http://investors.dressrush.com/)
 
 TODO:
--- try to beat impress.js!
+* try to beat impress.js!
